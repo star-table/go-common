@@ -3,7 +3,7 @@ package multi_db
 import (
 	"context"
 
-	"github.com/star-table/go-common/go-common/pkg/middleware/meta"
+	"github.com/star-table/go-common/pkg/middleware/meta"
 	"gorm.io/gorm"
 )
 

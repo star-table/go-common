@@ -7,7 +7,7 @@ import (
 
 	"github.com/getsentry/sentry-go"
 	"github.com/natefinch/lumberjack"
-	"github.com/star-table/go-common/go-common/pkg/sentry/client"
+	"github.com/star-table/go-common/pkg/sentry/client"
 	"go.opentelemetry.io/otel/trace"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"

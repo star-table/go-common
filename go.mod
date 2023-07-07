@@ -1,4 +1,4 @@
-module github.com/star-table/go-common/go-common
+module github.com/star-table/go-common
 
 go 1.16
 

@@ -12,7 +12,7 @@ import (
 	"github.com/go-kratos/kratos/v2/log"
 	"github.com/go-kratos/kratos/v2/middleware"
 	"github.com/go-kratos/kratos/v2/transport"
-	pkgErrors "github.com/star-table/go-common/go-common/pkg/errors"
+	pkgErrors "github.com/star-table/go-common/pkg/errors"
 	"go.opentelemetry.io/otel/trace"
 )
 

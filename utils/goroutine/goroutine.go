@@ -2,7 +2,7 @@ package goroutine
 
 import (
 	"github.com/go-kratos/kratos/v2/log"
-	"github.com/star-table/go-common/go-common/utils/stack"
+	"github.com/star-table/go-common/utils/stack"
 )
 
 func SafeRun(fn func(), logger *log.Helper) {

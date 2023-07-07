@@ -3,7 +3,7 @@ package errors_test
 import (
 	"fmt"
 
-	"github.com/star-table/go-common/go-common/pkg/errors"
+	"github.com/star-table/go-common/pkg/errors"
 )
 
 func ExampleNew() {

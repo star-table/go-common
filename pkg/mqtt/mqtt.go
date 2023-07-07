@@ -4,7 +4,7 @@ import (
 	"errors"
 	"sync/atomic"
 
-	"github.com/star-table/go-common/go-common/utils/stack"
+	"github.com/star-table/go-common/utils/stack"
 
 	"github.com/go-kratos/kratos/v2/log"
 	emitter "github.com/star-table/emitter-go-client"
